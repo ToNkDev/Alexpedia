@@ -327,7 +327,7 @@ function App() {
           <h2 id="koniec">Koniec</h2>
           <p>
             Po długiej rozmowie, wszyscy uznali że okej, wyrzucili wszystkie brudy, każdy przysiągł że wszystko wybacz, jednak dalszy kontakt był dość niezręczny, jako że KS i KP nie mieli ochoty na jego darcie pizdy w grach. 2 Ważne obietnice które wtedy padły, to że KS i KP będa mniej gadac przy nim o studiach
-            a Alex nie będzie się darł w grach. On dotrzymał obietnicy trochę na około, po prostu z nimi nie grająć. KS i KP ostrzegli go natomiast, że koedy już na studiach BĘDĄ, to nie będa udawać że ich tam NIE MA. Alex sie zgodził.
+            a Alex nie będzie się darł w grach. On dotrzymał obietnicy trochę na około, po prostu z nimi nie grająć. KS i KP ostrzegli go natomiast, że kiedy już na studiach BĘDĄ, to nie będa udawać że ich tam NIE MA. Alex sie zgodził.
             Po tym grupka spotkała się 2 razy. Pierwszy raz, to urodziny AJ na działce. Alex i ZJ przyjechali spóźnieni jakieś 6 godzin, po czym padło dosłownie JEDNO ZDANIE o studiach, Alex spędził następne 3 godziny siedząc samemu na krześle by pokazać każdemu jak bardzo mu źle.
             Drugie spotkanie było w nowym mieszkaniu ZS, gdzie najebał sie jak szmata, darł pizdę, był dziwny i psuł zabawę przez telefon. W końcu nadszedł dzień inauguracji na studia każdego w grupie oprócz ALexa, który zaczął pracować jako stróż na magazynie. Gdy grupka rozmawiała o pierwszych dniach na studiach, Alex (pomimo tego że przed maturą bardzo chciał iść na ten sam kierunek co KS i KP), zaczął nazywać każdego Śmietanką inteligencji, LARPem, Elitą itd.
             Wywiązała sie duża kłótnia gdzie Alex rzucił takie bangery jak:
