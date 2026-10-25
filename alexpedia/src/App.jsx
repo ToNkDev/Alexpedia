@@ -143,7 +143,10 @@ function App() {
         <h3>
           <i>
             <span className="blink">❤️</span> All your Alex Daszkiewicz fantasies <span className="blink">❤️</span>
+            <br></br>
+
           </i>
+          <br></br>
         </h3>
         <div className="progress" style={{ width: `${progress}%` }} />
       </header>
