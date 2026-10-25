@@ -11,7 +11,7 @@ const MENU = [
   { id: 'galeria2', label: 'Filmy' },
   { id: 'kontakt', label: 'Kontakt' },
 ]
-
+const INTRO = ['Intro.mp4']
 const PHOTOS = [
   'zdj1.png', 'zdj2.jpg', 'zdj3.jpg', 'zdj4.jpg',
   'zdj5.jpg', 'zdj6.jpg', 'zdj7.jpg', 'zdj8.jpg',
@@ -67,7 +67,7 @@ function App() {
   const [zoom, setZoom] = useState(null)
   const [visits, setVisits] = useState(null)
 
-  // scroll progress, back-to-top button, active menu link
+
   useEffect(() => {
     const onScroll = () => {
       const y = window.scrollY
@@ -166,8 +166,8 @@ function App() {
 
       <div className="container page" onClick={onPageClick} onPlayCapture={pauseOthers}>
         <h1>Alex Daszkiewicz</h1>
-        <img src="/images/prof.jpg" id="mainProf" className="imgInsert" alt="Alex" />
-        <h3><i>Najaktualniejsze zdjęcie zjeba</i></h3>
+        
+        <video src={`/videos/${INTRO[0]}`} className="vidInsert3" controls preload="metadata" playsInline />
 
         {/* ---------- RPG CHARACTER SHEET ---------- */}
         <section className="rpg" id="karta">
